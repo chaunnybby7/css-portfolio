@@ -111,12 +111,29 @@ h2 {
   color: #726c67;
     display: inline-block;
     font-family: CentraNo1-Book,system-ui,Segoe UI,Roboto,Arial,sans-serif;
-    font-size: 1.5rem;
     font-weight: 400;
     letter-spacing: .0625rem;
     line-height: 1.05;
     display: block;
     font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+  color: #726c67;
+    display: inline-block;
+    font-family: CentraNo1-Book,system-ui,Segoe UI,Roboto,Arial,sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: .0625rem;
+    line-height: 1.05;
+    display: block;
     margin-block-start: 0.67em;
     margin-block-end: 0.67em;
     margin-inline-start: 0px;
@@ -206,6 +223,18 @@ footer {
   text-decoration: none;
 }
 
+.about {
+  background-color: var(--bgColor1);
+}
+
+.social {
+  background-color: var(--bgColor1);
+}
+
+.projects {
+  background-color: var(--bgColor1);
+}
+
 #opac img {
   opacity: 50%;
 }
@@ -219,6 +248,7 @@ footer {
 #box p {
   color: var(--textColor);
 }
+
 
 #box section {
   border: 3px dashed var(--bgColor0);
