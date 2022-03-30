@@ -20,6 +20,13 @@ Created a CSS portfolio which consists of:
 - Social media links to connect with me! :)
 - The website is made up of skills I have learnt for the past week - Flexbox, Media Queries and CSS variables.
 
+## Screenshot of the website
+
+
+![My Image](assets/images/cssport.png)
+
+
+
 
 ## Technical Checklist: 
 
@@ -67,7 +74,7 @@ Repository contains quality readme with description, screenshot, link to deploye
 
 * **YiLin Ong** 
 
-- [Link to Portfolio Site](#)
+- [Link to Portfolio Site](https://github.com/chaunnybby7/css-portfolio)
 - [Link to Github](https://github.com/chaunnybby7)
 - [Link to LinkedIn](https://www.linkedin.com/in/chauntelleong)
 
