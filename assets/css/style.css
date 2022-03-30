@@ -12,10 +12,14 @@ html {
 body {
   display: flex;
   flex-direction: column;
-  line-height: 1.3;
-  color: #62554a;
-  font-family: CentraNo1-Book,system-ui,Segoe UI,Roboto,Arial,sans-serif;
-  font-weight: 400;
+  font-size: 17px;
+    line-height: 1.4705882353;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    background-color: #fff;
+    color: #1d1d1f;
+    font-style: normal;
   background-color: var(--bgColor1);
 }
 

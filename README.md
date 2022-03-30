@@ -42,13 +42,9 @@ GitHub repository contains application code.
 
 Repository has a unique name (css-portfolio)
 
-
-
 Repository follows best practices for file structure and naming conventions.
 
-
 Repository contains multiple descriptive commit messages.
-
 
 Repository contains quality readme with description, screenshot, link to deployed application.
 
@@ -60,6 +56,7 @@ Repository contains quality readme with description, screenshot, link to deploye
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Flaticon] (https://www.flaticon.com)
 
 ## Deployed Link
 
