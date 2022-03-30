@@ -18,7 +18,7 @@ Created a CSS portfolio which consists of:
 - My resume 
 - Mini projects completed.
 - Social media links to connect with me! :)
-- The website is made up of skills I have learnt for the past week - Flexbox, Media Queries and CSS variables.
+- The website is made up of skills I have learnt from the past week - Flexbox, Media Queries and CSS variables.
 
 ## Screenshot of the website
 
