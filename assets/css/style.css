@@ -4,7 +4,7 @@
   --bgColor1: #fff;
 }
 
-
+/*UI scrolls to the corresponding section when clicks on one of the links in the navigation*/
 html {
   scroll-behavior: smooth;
 }
