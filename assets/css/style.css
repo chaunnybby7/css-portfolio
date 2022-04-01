@@ -40,7 +40,7 @@ header {
   position: relative;
   transition: color .2s ease-in-out,background-color .2s ease-in-out;
 }
-
+/* Setting the style attributes to active and visited links */
 a:link {
   color: #62554a;
   font-family: CentraNo1-Book,system-ui,Segoe UI,Roboto,Arial,sans-serif;
@@ -72,7 +72,7 @@ a:active {
 }
 
 
-
+/*Style attributes to paragraph texts */
 p {
     font-size: .875rem;
     letter-spacing: 0;
@@ -92,12 +92,13 @@ p {
   padding: 20px!important;
 }
 
+/* Add more space in between mainly for the social media tags at the footer */
 .p-21 {
   padding-left: 2px;
   padding-right: 2px;
 }
 
-
+/* Enforcing texts to be centered */
 .text-center {
   text-align: center!important;
 }
@@ -147,7 +148,7 @@ h3 {
     text-align: center;
     text-transform: uppercase;
 }
-
+/* Navigation links unordered list style attributes*/
 nav ul {
   display: flex;
   justify-content: space-between;
@@ -199,6 +200,7 @@ footer {
   padding-top: 0.75rem;
 }
 
+/*Set style attributes for each of the project column's Learn More button*/
 .button {
      background-color: #eee6da;
     border-radius: 0.25rem;
@@ -270,6 +272,7 @@ footer {
   padding-right: 12px;
   transition: all 0.5s ease-in-out; 
 }
+/*Boxes will look like it's highlighted while the mouse hovers over or clicks on each project column*/
 #box section:hover,
 #box section:hover h2 {
         box-shadow: inset 0px 0px 8px
