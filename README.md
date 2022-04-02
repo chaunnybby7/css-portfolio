@@ -20,7 +20,7 @@ Flexbox, Media Queries and CSS variables.
 
 Step 2: Created a navigation bar at the top right hand corner with four tabs by using `<nav>` and `<li>` tags and align the texts with `display: flex` so that they are side-by-side.
 
-Step 3: Created `<section>` to place each application inside a framed column. Created `<box>`id to style the words so they are alined in multiple lines.
+Step 3: Created `<section>` to place each application inside a framed column. Created `<box>`id to style the words so they are aligned in multiple lines.
 
 Step 4: Downloaded social media logo .png files as links to my different social media platforms: LinkedIn, Facebook, Twitter.
 
