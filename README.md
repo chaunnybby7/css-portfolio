@@ -41,36 +41,6 @@ Step 8: Used flaticons to add more creative contents to my portfolio.
 
 
 
-## Technical Checklist: 
-
-Application's links all function correctly.
-
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-Application deployed at live URL.
-
-Application loads with no errors.
-
-Application GitHub URL submitted.
-
-GitHub repository contains application code.
-
-
-
-## Repository Quality: 
-
-
-Repository has a unique name (css-portfolio)
-
-Repository follows best practices for file structure and naming conventions.
-
-Repository contains multiple descriptive commit messages.
-
-Repository contains quality readme with description, screenshot, link to deployed application.
-
-
-
-
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
